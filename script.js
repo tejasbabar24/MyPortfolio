@@ -1,4 +1,3 @@
-// scroll section active code
 let  sections = document.querySelectorAll('section');
 let navLinks = document.querySelectorAll('header nav a');
 

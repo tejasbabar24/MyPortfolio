@@ -96,7 +96,7 @@ position: fixed;
 top: 0;
 left: 0;
 width: 100%;
-padding: 4rem 5%;
+padding: 2rem 9%;
 background: var(--bg-color);
 display: flex;
 justify-content: space-between;
@@ -105,7 +105,7 @@ z-index: 100;
 
 }
 .header.sticky{
-  border-bottom: .1rem solid rgba(0,0,0,.2);
+  border-bottom: .1rem solid rgba(0,0,0,.2);  
 }
 .logo{
     font-size: 3.5rem;
