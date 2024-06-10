@@ -539,7 +539,7 @@ span{
       grid-template-columns: repeat(1, 1fr); /* 1 service box in a row */
   } 
 }
-@media (max-width: 450px) { 
+@media (max-width: 365px) { 
   html{
     font-size: 50%;
   }
@@ -550,19 +550,4 @@ span{
     width: 100%;
   }
 }
-@media (max-width: 365px) { 
-  .home_img img{
-    width: 90vw;
-  }
-  .about-img img{
-    width: 90vw;
-    
-  }
-  .footer{
-    flex-direction: column-reverse;
-  }
-  .footer P{
-    text-align:center ;
-    margin-top: 2REM;
-  }
-}
+
